@@ -1,0 +1,5 @@
+In python you can muiltitask.
+In python you can good and understanding code.
+In python you can used it for varieties of fields i.e data analysis, backend, machine learning etc.
+In python you can  muiti-threading.
+In python you can overload operator and methods.
