@@ -17,3 +17,13 @@ from functools import reduce
 num = [12,1,1,98, 8,2,17,20]
 sum = reduce(lambda a,b : a+b, num)
 print(sum)
+
+
+
+
+import json
+
+filename = "Favorite_num.json"
+with open(filename, "r") as file:
+    Favorite_num = json.load(file)
+    print("I know your favourite number, its " +  str(Favorite_num) + ".")
